@@ -19,6 +19,6 @@
   "homepage": "http://www.google.com/fonts/specimen/Open+Sans",
   "ignore": [
     "*.gz",
-    "node_modules",
+    "node_modules"
   ]
 }

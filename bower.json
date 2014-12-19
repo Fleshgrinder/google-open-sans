@@ -1,0 +1,24 @@
+{
+  "name": "google-open-sans",
+  "version": "1.0.0",
+  "authors": [
+    "Richard Fussenegger <richard@fussenegger.info>"
+  ],
+  "description": "Optimized Google Open Sans (Condensed) web font.",
+  "main": "./gulpfile.js",
+  "keywords": [
+    "font",
+    "webfont",
+    "google",
+    "open-sans",
+    "fontface",
+    "font-face",
+    "fontkit"
+  ],
+  "license": "Apache-2.0",
+  "homepage": "http://www.google.com/fonts/specimen/Open+Sans",
+  "ignore": [
+    "*.gz",
+    "node_modules",
+  ]
+}
